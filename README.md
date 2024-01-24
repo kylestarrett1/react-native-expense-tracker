@@ -46,10 +46,10 @@ The Expense Tracker App is a mobile application built using React Native, design
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/file/d/1XVQoq55S99IeSx1-CjREDsxAW0tqLggU/view?usp=sharing)
+![IMG-0003](https://github.com/kylestarrett1/react-native-expense-tracker/assets/48605044/984012d6-0e3d-4431-8412-9a0f9a8c199a)
 *Adding an expense*
 
-![Screenshot 2](https://drive.google.com/file/d/1l7glGiNqVgaVLToNN7VA1vXq9kAS-t0v/view?usp=sharing)
+![IMG-0002](https://github.com/kylestarrett1/react-native-expense-tracker/assets/48605044/a8505041-c4ef-4c30-92ab-1819e98a21fe)
 *All recent expenses screen*
 
 ## Contributing
